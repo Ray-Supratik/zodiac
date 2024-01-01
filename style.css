@@ -1,0 +1,21 @@
+h1{
+    color:#69140E;
+    text-align: center;
+    font-weight: bolder;
+    font-weight: 900;
+}
+h2{
+    color:black;
+}
+.tagline{
+    color:black;
+}
+body{
+    background-color:#FFECD1;
+    background-image: url(./pexels-karolina-grabowska-4040567.jpg);
+    background-size: cover;
+}
+a{
+    text-align: center;
+    text-decoration: #69140E underline;
+}
